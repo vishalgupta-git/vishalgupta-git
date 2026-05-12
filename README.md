@@ -1,37 +1,40 @@
-## Hi there 👋
+## Hi there, I'm Vishal 👋 
 
-I'm a **Machine Learning Engineer** passionate about building intelligent solutions using **Machine Learning (ML)** and **Deep Learning**. My focus is on bridging the gap between data science and software engineering to create robust, real-world applications.
+I'm a **Full-Stack AI Engineer** and **Backend Architect** specializing in **Agentic Workflows**, **RAG Pipelines**, and **Computer Vision**. I bridge the gap between cutting-edge AI research and production-grade deployments.
 
-I enjoy turning complex data into deployed solutions and building intuitive tools to make AI accessible and usable.
+Currently, I am the founder and lead developer of **[Urvai](https://urvai.in)**, a self-hosted Agentic AI suite designed for privacy-first knowledge work.
 
 ### 🚀 What I'm Working On
-- Developing end-to-end **ML pipelines** across **vision**, **text**, and **predictive analytics**
-- **Deploying models** using interactive **Streamlit** interfaces
-- Building insightful data tools with **Power BI** and **Tableau**
-- Engineering hands-on **Python** & **.NET** applications for real-world use cases
+- **Architecting Urvai**: Building a production platform for autonomous AI agents using **FastAPI**, **Celery**, and **Redis**.
+- **Agentic RAG**: Developing intelligent tool-routing systems with **ChromaDB** and **LangChain** for sub-12s local LLM inference.
+- **Vision Microservices**: Engineering scalable computer vision pipelines using **YOLO** and **OpenCV** for real-time monitoring.
+- **Infrastructure**: Orchestrating AI workloads across **Dockerized** environments and **Proxmox** virtualized hardware.
 
-### 🔗 Featured Work
-Check out my deployed Streamlit apps here 👉 [streamlit.io/user/vishalgupta-git](https://share.streamlit.io/user/vishalgupta-git)
+### 🛠️ Tech Stack
+
+**Core AI & Orchestration:**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=chroma&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Backend & Infrastructure:**
+<br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔗 Featured Projects
+- **[Urvai](https://urvai.in)**: A multi-modal AI tool suite for document intelligence, YouTube summarization, and automated Q&A.
+- **[Vision Monitor]**: A distributed employee monitoring system using YOLO and AWS Rekognition (Professional Work).
 
 ### 💬 Let's Connect
-Explore my repositories and feel free to reach out if you'd like to collaborate on Machine Learning, AI engineering, or software development!
+I'm always open to collaborating on **Agentic AI**, **Local LLM deployment**, or **Scalable Backend Systems**. 
 
-# 💻 Tech Stack:
-**Languages & Engineering:**
-<br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+Explore my repositories and feel free to reach out!
 
-**ML & Data Science:**
-<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishalgupta-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vishalgupta-git&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vishalgupta-git&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgupta-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishalgupta-git&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=vishalgupta-git&icon=0&color=0)](https://visitcount.itsvg.in)
